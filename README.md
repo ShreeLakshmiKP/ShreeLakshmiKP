@@ -5,11 +5,9 @@
 
 - 🌱 I’m currently learning **RTOS**
 
-- 💬 Ask me about **Embedded C**
+- 💬 Ask me about **C,EmbeddedC,STM32,Communication Protocols-I2C,SPI,UART,LIN**
 
 - 📫 How to reach me **shreeguna720@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
